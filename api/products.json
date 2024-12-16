@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Apple MacBook Air Laptop with M2 chip",
+    "category": "Computers",
+    "brand": "ExampleBrand",
+    "price": 82999,
+    "stock": 50,
+    "description": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Silver",
+    "image": "../images/lapi.png"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 16 Pro Max",
+    "category": "Mobiles",
+    "brand": "TechGadget",
+    "price": 144900,
+    "stock": 100,
+    "image": "../images/iphone.png",
+    "description": "Titanium design with larger 17.4 cm (6.9″) Super Retina XDR display,  durable, latest-generation Ceramic Shield, Action button, and USB-C with USB 3 speeds The first iPhone designed for Apple Intelligence.Personal, private, powerful.Camera Control gives you an easier way to quickly access camera tools"
+  },
+  {
+    "id": 3,
+    "name": "AirPods Max",
+    "category": "Audio",
+    "brand": "Apple",
+    "price": 59900,
+    "stock": 30,
+    "image": "../images/headphone.png",
+    "description": "The ultimate over‑ear personal listening experience — now in fresh new colours. AirPods Max deliver stunningly detailed, high‑fidelity audio. Personalised Spatial Audio with dynamic head tracking for sound that surrounds you. Footnote ⁴ Pro‑level Active Noise Cancellation to remove unwanted sound."
+  },
+  {
+    "id": 4,
+    "name": "G-Shock GM-110G-1A9DR",
+    "category": "Wearables",
+    "brand": "FitTech",
+    "price": 18995,
+    "stock": 20,
+    "image": "../images/watch.png",
+    "description": "Casio G-Shock GM-110G-1A9DR Gold Ip Black & Gold Analog-Digital Dial Black Resin Strap Men's Watch Shock And 200M Water Resistant G1053"
+  },
+  {
+    "id": 5,
+    "name": "JBL Partybox 110",
+    "category": "Audio",
+    "brand": "JBL",
+    "price": 25000,
+    "stock": 30,
+    "image": "../images/speakers.png",
+    "description": "JBL Partybox 110, Wireless Bluetooth Party Speaker, 160W Monstrous Pro Sound, Dynamic Light Show, Upto 12Hrs Playtime, Built-in Powerbank, Guitar & Mic Input, PartyBox App, Splashproof (Black)"
+  },
+  {
+    "id": 6,
+    "name": "Samsung 163 cm (65 inches)",
+    "category": "Video",
+    "brand": "Samsung",
+    "price": 67990,
+    "stock": 20,
+    "image": "../images/tv.png",
+    "description": "Samsung 163 cm (65 inches) D Series Crystal 4K Vivid Pro Ultra HD Smart LED TV UA65DUE77AKLXL (Black)"
+  },
+  {
+    "id": 7,
+    "name": "Sony WH-1000XM5",
+    "category": "Audio",
+    "brand": "Sony",
+    "price": 29999,
+    "stock": 40,
+    "image": "../images/sony_headphones.png",
+    "description": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones, 30 Hours Battery Life, Over-Ear Style, Hi-Res Audio, Built-in Mic, Quick Attention Mode, Black"
+  },
+  {
+    "id": 8,
+    "name": "Canon EOS R5",
+    "category": "Cameras",
+    "brand": "Canon",
+    "price": 339999,
+    "stock": 15,
+    "image": "../images/camera.png",
+    "description": "Canon EOS R5 Full Frame Mirrorless Camera with 8K Video, 45 Megapixel Full-Frame CMOS Sensor, DIGIC X Image Processor, Dual Pixel CMOS AF II, Built-in Wi-Fi and Bluetooth, Black"
+  },
+  {
+    "id": 9,
+    "name": "Google Pixel 7 Pro",
+    "category": "Mobiles",
+    "brand": "Google",
+    "price": 99999,
+    "stock": 80,
+    "image": "../images/pixel.png",
+    "description": "Google Pixel 7 Pro 5G with Google Tensor G2 chip, 6.7-inch LTPO AMOLED display, 12GB RAM, 128GB Storage, Triple Camera System, Night Sight, and Ultra-Wide Lens, Black"
+  }
+]
